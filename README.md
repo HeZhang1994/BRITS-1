@@ -1,4 +1,4 @@
-# README
+# README - work20190218
 
 It is a pytorch implemention of paper "BRITS: Bidirectional Recurrent Imputation for Time Series, Wei Cao, Dong Wang, Jian Li, Hao Zhou, Lei Li Yitan Li. (NerIPS 2018)". The paper can be found here. http://papers.nips.cc/paper/7911-brits-bidirectional-recurrent-imputation-for-time-series
 
